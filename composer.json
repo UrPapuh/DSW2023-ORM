@@ -1,0 +1,19 @@
+{
+    "name": "urpapuh/orm",
+    "description": "Practica con el ORM Eloquent",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^10.33"
+    },
+    "autoload": {
+        "psr-4": {
+            "ORM\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UrPapuh",
+            "email": "andrewgr073@gmail.com"
+        }
+    ]
+}
